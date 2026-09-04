@@ -1,0 +1,55 @@
+commit dc53bf3f2c495d7135dc415a2575a649a5c3ebc6
+Merge: 9630c93 a51cd96
+Author: LisaL317 <jiaruiliu.jrl@gmail.com>
+Date:   Fri Sep 4 12:27:16 2026 -0700
+
+    merge conflict simulation
+    
+    This is the merge that resolves the conflict.
+
+commit a51cd9614cb8ba19fc0429cd7b4b8bf880d7136b
+Author: LisaL317 <jiaruiliu.jrl@gmail.com>
+Date:   Fri Sep 4 12:20:51 2026 -0700
+
+    Added div of favorite game to index.html
+
+commit 9630c9392f1e5c52eb924f3d48be39301515026a
+Author: LisaL317 <jiaruiliu.jrl@gmail.com>
+Date:   Fri Sep 4 12:18:51 2026 -0700
+
+    Added div of favorite food to index.html
+
+commit 2d99e922f2036abaad106446a246e1ef5ddc9aed
+Merge: 8889b1f 8f9ecc8
+Author: LisaL317 <jiaruiliu.jrl@gmail.com>
+Date:   Fri Sep 4 12:10:08 2026 -0700
+
+    Merge branch 'main' of https://github.com/LisaL317/CS3338-second-project
+    merging to fix divergence between remote and local repo.
+
+commit 8889b1f8ad574524d145fe39dbbada59863a50ac
+Author: LisaL317 <jiaruiliu.jrl@gmail.com>
+Date:   Fri Sep 4 11:31:57 2026 -0700
+
+    Commit my README
+
+commit 8f9ecc81a21202bf9ee42becf013fb27aadd03d4
+Merge: 1d2bfc0 4e67b74
+Author: Lisa Liu <jiaruiliu.jrl@gmail.com>
+Date:   Fri Sep 4 11:26:30 2026 -0700
+
+    Merge pull request #1 from LisaL317/info-fill
+    
+    Completed fill-in-the-blank question in index.html. There is no conflict in this merge.
+
+commit 4e67b74971ddfdac4d93afd96e71d3d36667de5f
+Author: LisaL317 <jiaruiliu.jrl@gmail.com>
+Date:   Fri Sep 4 11:21:02 2026 -0700
+
+    Completed fill-in-the-blank question in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
